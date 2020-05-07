@@ -21,6 +21,6 @@ header a {
     padding-top: 40px;
 }
 
-.rounded {
-    border-radius: 25%;
+.content-box {
+    background-color: #c8d0cc;
 }
