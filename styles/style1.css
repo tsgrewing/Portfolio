@@ -1,7 +1,7 @@
 body {
     font-family: 'Vollkorn SC', serif;
     background: #474445;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 header {
@@ -23,4 +23,8 @@ header a {
 
 .content-box {
     background-color: #c8d0cc;
+}
+
+hr {
+    border-top: 3px double #474445;
 }
