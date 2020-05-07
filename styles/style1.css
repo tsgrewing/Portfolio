@@ -1,6 +1,7 @@
 body {
     font-family: 'Vollkorn SC', serif;
     background: #474445;
+    overflow: hidden;
 }
 
 header {
@@ -14,4 +15,8 @@ header .navbar-brand {
 header a {
     font-size: 1.5rem;
     color: #c8d0cc;
+}
+
+.maincontent {
+    padding-top: 40px;
 }
