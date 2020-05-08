@@ -45,24 +45,18 @@ p {
     line-height: 1.75;
 }
 
-.main-content-container {
-    margin-top: auto;
-    margin-bottom: auto;
-}
+
 .maincontent {
     margin-top: auto;
     margin-bottom: auto;
-    padding-top: 40px;
-    padding-bottom: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 /* About Me Page Specific */
-.carousel {
-    padding-bottom: 20px;
-}
 
 .bio {
-    padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 .content-box {
