@@ -67,6 +67,13 @@ hr {
     border-top: 3px double #474445;
 }
 
+/* Contact Form Styles */
+
+.btn-secondary {
+    background-color: #5a1207;
+    color: #c8d0cc;
+}
+
 /* Footer */
 
 .footer {
@@ -94,3 +101,4 @@ hr {
 .footer-content {
     line-height: 1.75;
 }
+
