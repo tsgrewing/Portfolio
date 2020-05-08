@@ -7,6 +7,7 @@ body {
     background: #474445;
     overflow-x: hidden;
     margin-bottom: 60px;
+    height: calc(100vh - 162px);
 }
 
 header {
@@ -44,8 +45,12 @@ p {
     line-height: 1.75;
 }
 
+.main-content-container {
+    margin-top: auto;
+    margin-bottom: auto;
+}
 .maincontent {
-    margin-top:auto;
+    margin-top: auto;
     margin-bottom: auto;
     padding-top: 40px;
     padding-bottom: 40px;
