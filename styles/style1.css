@@ -53,11 +53,12 @@ p {
     padding-bottom: 20px;
 }
 
-/* About Me Page Specific */
 
-.bio {
-    padding-top: 20px;
+.carousel {
+    margin-top: auto;
+    margin-bottom: auto;
 }
+
 
 .content-box {
     background-color: #c8d0cc;
@@ -68,7 +69,12 @@ hr {
 }
 
 /* Contact Form Styles */
-
+.contact-header {
+    border-bottom: 3px double black;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;;
+}
 .btn-secondary {
     background-color: #5a1207;
     color: #c8d0cc;
