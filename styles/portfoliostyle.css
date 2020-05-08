@@ -4,6 +4,10 @@
     border: 3px solid #474445;
 }
 
+.portfolio-card-container {
+    margin-bottom: 100px;
+}
+
 .dragondrop {
     width: 100%;
     background-color: #cccccc;
