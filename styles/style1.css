@@ -45,10 +45,13 @@ p {
 }
 
 .maincontent {
+    margin-top:auto;
+    margin-bottom: auto;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 
+/* About Me Page Specific */
 .carousel {
     padding-bottom: 20px;
 }
@@ -64,6 +67,8 @@ p {
 hr {
     border-top: 3px double #474445;
 }
+
+/* Footer */
 
 .footer {
     position: absolute;
