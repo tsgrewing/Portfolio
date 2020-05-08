@@ -5,6 +5,7 @@ body {
     overflow-x: hidden;
     margin-bottom: 60px;
     height: calc(100vh - 182px);
+    
 
 
 }
@@ -54,6 +55,13 @@ p {
     padding-top: 20px;
     padding-bottom: 20px;
     
+}
+
+main {
+    min-height: 70%;
+    min-height: -webkit-calc(100% - 80px);
+    min-height: -moz-calc(100% - 80px);
+    min-height: calc(100% - 80px);
 }
 
 
