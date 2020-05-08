@@ -49,6 +49,14 @@ p {
     padding-bottom: 40px;
 }
 
+.carousel {
+    padding-bottom: 20px;
+}
+
+.bio {
+    padding-bottom: 20px;
+}
+
 .content-box {
     background-color: #c8d0cc;
 }
