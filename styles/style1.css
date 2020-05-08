@@ -17,7 +17,7 @@ header {
 
 header .navbar-brand {
     font-size: 2rem;
-    color: #c8d0cc;
+    color: #c8d0cc!important;
 }
 
 header a {
