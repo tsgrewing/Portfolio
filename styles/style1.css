@@ -39,10 +39,10 @@ header a {
     border: 3px solid #c8d0cc;
 }
 
-.row {
+/* .row {
     margin-right: 0;
     margin-left: 0;
-}
+} */
 
 p {
     font-family: 'Vollkorn', serif;
@@ -106,4 +106,17 @@ h2 {
     color: #c8d0cc;
     text-align: center;
     padding-top: 10px;
+}
 
+@media only screen and (max-width: 768px) {
+    .container {
+        width: 100%;
+    }
+    body {
+        background-color: #c8d0cc;
+    }
+    p {
+        font-size: 16px;
+    }
+
+}
