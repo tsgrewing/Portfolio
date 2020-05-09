@@ -1,10 +1,17 @@
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 80px;
+}
+
 
 body {
     font-family: 'Vollkorn SC', serif;
     background: #474445;
-    overflow-x: hidden;
-    margin-bottom: 60px;
-    height: calc(100vh - 182px);
+
 }
 
 header {
@@ -20,7 +27,7 @@ header .navbar-brand {
 header a {
     font-size: 1.5rem;
     color: #c8d0cc;
-}
+} 
 
 .bg-secondary {
     background-color: #5a1207!important;
@@ -65,7 +72,7 @@ p {
 
 hr {
     border-top: 3px double #474445;
-}
+} 
 
 /* Contact Form Styles */
 .contact-header {
@@ -81,19 +88,7 @@ hr {
 }
 
 /* Footer */
-
-.footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    height: 80px;
-    background-color: #5a1207;
-    color: #c8d0cc;
-    text-align: center;
-    padding-top: 10px;
-}
-
-.footer a {
+ .footer a {
     color: #c8d0cc;
 }
 
@@ -105,11 +100,23 @@ hr {
 
 .footer-content {
     line-height: 1.75;
-}
+} 
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
+    background-color: #5a1207;
+    color: #c8d0cc;
+    text-align: center;
+    padding-top: 10px;
 
 
 
-/* Bootstrap Sticky Footer Demo
+
+
+
+/* Bootstrap Sticky Footer 
 
     .footer {
     position: absolute;
