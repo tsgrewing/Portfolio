@@ -4,14 +4,9 @@ html {
 }
 
 body {
-    margin-bottom: 80px;
-}
-
-
-body {
     font-family: 'Vollkorn SC', serif;
     background: #474445;
-
+    margin-bottom: 80px;
 }
 
 header {
@@ -108,7 +103,7 @@ h2 {
     padding-top: 10px;
 }
 
-@media only screen and (max-width: 768px) {
+/* @media only screen and (max-width: 768px) {
     .container {
         width: 100%;
     }
@@ -119,4 +114,4 @@ h2 {
         font-size: 16px;
     }
 
-}
+} */
