@@ -40,23 +40,12 @@ p {
     line-height: 1.75;
 }
 
-.row {
-    margin-bottom: 10px;
-}
-.maincontent {
-    margin-top: 1.5rem;
-    margin-bottom: 1rem;
+.main-content-wrapper {
+    background-color: #c8d0cc;
     padding-top: 20px;
     padding-bottom: 20px;
-}
-
-.carousel {
-    margin-top: auto;
-    margin-bottom: 20px;
-}
-
-.content-box {
-    background-color: #c8d0cc;
+    margin-top: 1rem;
+    margin-bottom: calc(1rem + 80px);
 }
 
 h2 {
