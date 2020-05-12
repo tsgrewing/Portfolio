@@ -21,6 +21,10 @@
     padding-right: 10px;;
 }
 
+.portfolio-wrapper {
+    margin-left: .25rem;
+    margin-right: .25rem;
+}
 .img-thumbnail {
     background-color: #474445;
     border-color: #474445;
