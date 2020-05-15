@@ -39,6 +39,12 @@ p {
     font-family: 'Vollkorn', serif;
     line-height: 1.75;
 }
+.main-content-wrapper header {
+    background-color: #c8d0cc;
+    color: #474445;
+    text-align: center;
+    margin-bottom: 10px;
+}
 
 .main-content-wrapper {
     background-color: #c8d0cc;
