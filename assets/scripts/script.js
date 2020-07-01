@@ -23,4 +23,4 @@
     //     $(this).attr('data-state', 'still');
     //   }
     // }
-});
+// });
