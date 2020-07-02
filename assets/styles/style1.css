@@ -93,6 +93,10 @@ h2 {
     padding-top: 10px;
 }
 
+.resume-frame {
+    height: 65vh;
+}
+
 /* media queries */
 @media only screen and (max-width: 768px) {
     .container {
