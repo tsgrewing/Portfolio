@@ -1,6 +1,9 @@
 # Tony Grewing's Portfolio
 A portfolio site that I will be updating as I finish more projects.
 
+## Demo
+[Deployed Site](http://tsgrewing.github.io/Portfolio)
+
 ## Use of Bootstrap for general layout
 Used bootstrap elements for navbar.
 Used grid system to organize main content of each page.
