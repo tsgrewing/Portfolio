@@ -2,7 +2,7 @@
 A portfolio site that I will be updating as I finish more projects.
 
 ## Demo
-[Demo](http://tsgrewing.github.io/Portfolio)
+[Deployed Site](http://tsgrewing.github.io/Portfolio)
 
 ## Use of Bootstrap for general layout
 Used bootstrap elements for navbar.
