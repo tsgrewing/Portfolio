@@ -39,6 +39,18 @@ a .portfolio-link {
     text-decoration: none;
 }
 
+.repo-link {
+    text-decoration: none;
+    color: #c8d0cc;
+    cursor: pointer;
+    text-align: center;
+}
+
+.repo-link:hover {
+    color: #c8d0cc;
+    text-decoration: underline;
+}
+
 a:-webkit-any-link {
     text-decoration: none;
 }
