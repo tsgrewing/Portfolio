@@ -93,8 +93,20 @@ h2 {
     padding-top: 10px;
 }
 
+/* resume styles */
 .resume-frame {
     height: 65vh;
+}
+
+.resume-link {
+    color: #474445;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.resume-link:hover {
+    text-decoration: underline;
+    color: #5a1207;
 }
 
 /* media queries */
